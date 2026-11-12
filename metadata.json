@@ -1,0 +1,6 @@
+{
+  "name": "AstraProfile - Professional Career & Résumé Engine",
+  "description": "An interactive, editorial career profile and résumé builder for students and working professionals with 15 detailed qualification modules, ATS scoring, and live export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
